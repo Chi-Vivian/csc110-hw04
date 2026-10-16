@@ -1,7 +1,7 @@
 # Assignment 04: Loop exercises
 
 
-**Due: As listen on course schedule**
+**Due: As listed on course schedule**
 
 *Note: Homework Assignment 4 should be completed individually.*
 
